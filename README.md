@@ -5,3 +5,5 @@ O repositório tem como objetivo armazenar as atividades do curso.
 A lista abaixo contém todas as aulas que assisti e completei!
 
 Mundo 1 - Python:
+- Seja APOIADOR e receba RECOMPENSAS
+- Curso Python #01 - Seja um programador
